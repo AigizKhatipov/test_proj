@@ -12,6 +12,7 @@
       "pages/*": ["pages/*"],
       "widgets/*": ["widgets/*"],
       "shared/*": ["shared/*"],
+      "features/*": ["features/*"],
     },
 
     /* Bundler mode */
